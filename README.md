@@ -1,6 +1,3 @@
-Trexo---name 
-
-
 Trexo E‑commerce Website 🛍️
 An e‑commerce web app built with the MERN stack: MongoDB,MySql,Express, React, and Node.js. Features include user auth, product catalog, shopping cart, checkout/payment integration, and an admin dashboard.
 

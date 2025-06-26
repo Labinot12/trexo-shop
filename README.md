@@ -18,8 +18,8 @@ Payments: Stripe or PayPal
 Other: Cloudinary for image uploads, Redis caching (optional), Nodemailer (email notifications)
 🔧 Setup & Installation
 # Clone repo
-git clone https://github.com/Labinot12/MERN-ecommerce.git
-cd MERN-ecommerce
+git clone https://github.com/Labinot12/trexo-shop
+cd trexo-shop
 
 # Backend setup
 cd server

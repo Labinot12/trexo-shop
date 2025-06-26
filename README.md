@@ -19,12 +19,17 @@ Other: Cloudinary for image uploads, Redis caching (optional), Nodemailer (email
 🔧 Setup & Installation
 # Clone repo
 git clone https://github.com/Labinot12/trexo-shop
-cd trexo-shop
 
-# Backend setup
-cd server
-npm install
+Tip: To efficiently install dependencies for both frontend and backend simultaneously, use split terminals.
 
 # Frontend setup
-cd ../client
+cd trexo-ecommerce-main
+cd frontend 
 npm install
+npm start
+
+# Backend setup
+cd trexo-ecommerce-main
+cd backend
+npm install
+npm start

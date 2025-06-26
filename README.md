@@ -23,12 +23,14 @@ git clone https://github.com/Labinot12/trexo-shop
 Tip: To efficiently install dependencies for both frontend and backend simultaneously, use split terminals.
 
 # Frontend setup
+
 cd trexo-ecommerce-main
 cd frontend 
 npm install
 npm start
 
 # Backend setup
+
 cd trexo-ecommerce-main
 cd backend
 npm install

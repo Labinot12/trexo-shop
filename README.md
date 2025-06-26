@@ -13,10 +13,7 @@ Responsive UI for desktop & mobile
 🚀 Technologies
 Frontend: React, Redux (or Context API), React Router, Tailwind CSS (or styled-components)
 Backend: Node.js, Express.js, MongoDB (Mongoose ODM) , MySql
-Auth: JWT with access & refresh tokens
-Payments: Stripe or PayPal
-Other: Cloudinary for image uploads, Redis caching (optional), Nodemailer (email notifications)
-🔧 Setup & Installation
+
 # Clone repo
 git clone https://github.com/Labinot12/trexo-shop
 
